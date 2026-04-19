@@ -1,4 +1,3 @@
-# Student Account COBOL Documentation
 
 ## Purpose
 
